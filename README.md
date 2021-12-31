@@ -1,2 +1,2 @@
 # Heart Disease Prediction
- Kalp Hastalıklarını SVM ve  KNN  sınıflandırma algoritmaları ile tahmin etmek
+Kaggle da elde ettiğimiz Heart Disease veri setini  SVM ve  KNN  sınıflandırma algoritmaları ile tahmin etmek
